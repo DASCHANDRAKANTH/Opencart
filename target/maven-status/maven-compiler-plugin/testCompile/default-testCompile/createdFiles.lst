@@ -1,0 +1,9 @@
+testCases\tcAccount_reg_page.class
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+utilities\ExtentReportManager.class
+pageObjects\HomePage.class
+pageObjects\mypageobjects.class
+testCases\verifyMyacc.class
+testbase\Baseclass.class
+pageObjects\AccountRegistrationPage.class

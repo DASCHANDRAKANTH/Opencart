@@ -1,0 +1,607 @@
+13:58:10.974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+13:58:11.505 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+12:12:44.069 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+12:16:53.366 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\AppData\Local\Temp\testng-eclipse--233627016\testng-customsuite.xml"
+12:17:26.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\AppData\Local\Temp\testng-eclipse--51594813\testng-customsuite.xml"
+12:18:23.246 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\AppData\Local\Temp\testng-eclipse--1574153480\testng-customsuite.xml"
+12:18:23.551 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:18:23.554 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+12:18:23.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.556 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.558 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.565 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+12:18:23.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+12:18:23.581 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.581 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.583 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.589 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+12:18:23.593 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:18:23.596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:18:23.596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:18:23.606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\AppData\Local\Temp\testng-eclipse--1574153480\testng-customsuite.xml
+
+12:18:23.631 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+12:18:36.257 [main] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+12:18:36.286 [main] INFO  testCases.tcAccount_reg_page - click on my ac 
+12:18:36.397 [main] INFO  testCases.tcAccount_reg_page -  click on register 
+12:18:37.118 [main] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+12:18:40.139 [main] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+12:18:40.570 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@646811d6: 97 ms
+12:18:40.572 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7573e12f: 2 ms
+12:18:40.583 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@42e22a53: 11 ms
+12:18:40.594 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6ed06f69: 10 ms
+12:18:40.602 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5a6482a9: 8 ms
+12:18:40.603 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7f9ab969: 0 ms
+19:23:50.193 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:23:50.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:23:56.653 [main] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:23:56.718 [main] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:23:56.898 [main] INFO  testCases.tcAccount_reg_page -  click on register 
+19:23:57.843 [main] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:24:00.078 [main] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:24:17.563 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:24:17.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:24:22.764 [main] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:24:22.809 [main] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:24:22.968 [main] INFO  testCases.tcAccount_reg_page -  click on register 
+19:24:23.867 [main] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:24:25.758 [main] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:24:43.751 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:24:44.039 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:24:52.791 [main] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:24:52.815 [main] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:24:52.949 [main] INFO  testCases.tcAccount_reg_page -  click on register 
+19:24:53.611 [main] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:24:55.539 [main] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:25:18.902 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:25:19.191 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:25:23.611 [main] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:25:23.639 [main] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:25:23.766 [main] INFO  testCases.tcAccount_reg_page -  click on register 
+19:25:24.631 [main] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:25:26.859 [main] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:28:47.156 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:28:47.476 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:28:52.160 [main] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:28:52.202 [main] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:28:52.385 [main] INFO  testCases.tcAccount_reg_page -  click on register 
+19:28:53.353 [main] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:28:55.616 [main] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:30:19.383 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:30:19.691 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:30:24.215 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:30:24.280 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:30:24.425 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  click on register 
+19:30:25.407 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:30:30.145 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:31:14.720 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:31:15.047 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:31:20.045 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:31:20.111 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:31:20.373 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:31:20.375 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:31:20.379 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  click on register 
+19:31:20.682 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  click on register 
+19:31:21.480 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:31:21.541 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+19:31:24.437 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:31:24.677 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+19:46:05.617 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:46:05.952 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+19:46:39.791 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:46:39.842 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:46:40.019 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+19:46:40.020 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page - click on my ac 
+19:46:49.930 [TestNG-tests-2] ERROR testCases.tcAccount_reg_page -  test failed 
+19:46:49.930 [TestNG-tests-2] DEBUG testCases.tcAccount_reg_page - debug log
+19:46:50.094 [TestNG-tests-1] ERROR testCases.tcAccount_reg_page -  test failed 
+19:46:50.095 [TestNG-tests-1] DEBUG testCases.tcAccount_reg_page - debug log
+19:47:29.933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+19:47:30.269 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+20:48:34.319 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+20:48:34.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+20:50:02.512 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+20:50:02.559 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page - click on my ac 
+20:50:02.788 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  click on register 
+20:50:08.967 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+20:50:28.073 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+20:51:14.886 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+20:51:14.888 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page - click on my ac 
+20:51:15.055 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  click on register 
+20:51:18.560 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+20:51:23.203 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+21:10:27.147 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+21:10:27.504 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+21:11:12.710 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+21:11:12.787 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page - click on my ac 
+21:11:12.847 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+21:11:12.848 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page - click on my ac 
+21:11:13.060 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  click on register 
+21:11:13.076 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  click on register 
+21:11:15.409 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+21:11:15.752 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+21:11:18.442 [TestNG-tests-1] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+21:11:19.093 [TestNG-tests-2] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+15:04:41.183 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:04:41.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:05:32.309 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:05:32.621 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:11:39.693 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:11:40.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:13:26.856 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:13:27.212 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:15:33.418 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:15:33.779 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:17:03.740 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:17:04.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:22:15.890 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:22:16.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:40:59.463 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:40:59.856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:41:28.790 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:41:29.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:43:32.014 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+15:43:32.333 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+15:43:51.420 [main] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+15:43:58.133 [main] INFO  testCases.tcAccount_reg_page -  **** starting account reg page test case ****
+15:43:58.134 [main] INFO  testCases.tcAccount_reg_page - click on my ac 
+15:43:58.283 [main] INFO  testCases.tcAccount_reg_page -  click on register 
+15:43:59.000 [main] INFO  testCases.tcAccount_reg_page -  providing customerr details 
+15:44:01.193 [main] INFO  testCases.tcAccount_reg_page -  validating expected messages 
+10:20:28.444 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:20:28.821 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:24:22.404 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:24:22.732 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:24:42.574 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:24:42.915 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:25:31.872 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:25:32.187 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:36:15.672 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:36:16.034 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:36:57.027 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+10:36:57.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+10:37:04.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+10:37:05.059 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+10:37:14.737 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+10:37:15.097 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+14:46:17.820 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+14:46:18.360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+14:47:02.593 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml"
+14:47:02.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testng.xml
+
+14:51:37.985 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+14:51:38.315 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:00:21.340 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:00:21.652 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:02:57.721 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:02:58.018 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:03:44.282 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:03:44.634 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:04:48.419 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\AppData\Local\Temp\testng-eclipse-1435641632\testng-customsuite.xml"
+15:04:48.699 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:04:48.702 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:04:48.704 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.706 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.707 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.708 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.720 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+15:04:48.755 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 34 ms.
+15:04:48.758 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.759 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:04:48.760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.760 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.761 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.761 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.764 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.765 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.766 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.769 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.769 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.769 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.770 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.771 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:04:48.772 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.774 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:04:48.775 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:04:48.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\AppData\Local\Temp\testng-eclipse-1435641632\testng-customsuite.xml
+
+15:04:48.813 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+15:04:49.073 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3eeb318f: 91 ms
+15:04:49.097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@58fe0499: 23 ms
+15:04:49.116 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@21baa903: 19 ms
+15:04:49.127 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6cfcd46d: 11 ms
+15:04:49.139 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@58c34bb3: 10 ms
+15:04:49.139 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@56a4479a: 0 ms
+15:05:22.625 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:05:22.916 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:09:04.972 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:09:05.314 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:10:53.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:10:53.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:11:39.499 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:11:39.828 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:31:53.750 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testngasdf.xml"
+15:31:54.111 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testngasdf.xml
+
+15:32:24.511 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testngasdf.xml"
+15:32:24.803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\testngasdf.xml
+
+10:48:00.392 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:48:00.926 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:04:27.054 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:04:27.418 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:04:35.462 [main] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+13:05:08.220 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:05:08.497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:05:31.332 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:05:31.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:09:28.518 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:09:28.813 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:11:56.720 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:11:57.032 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:12:08.680 [main] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+13:13:21.269 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:13:21.575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:13:27.182 [main] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+20:03:52.475 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+20:03:52.803 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+21:06:26.735 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+21:06:27.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+21:06:33.470 [main] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+21:42:09.234 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml"
+21:42:18.467 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml
+
+21:43:04.650 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml"
+21:43:05.007 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml
+
+21:43:58.519 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml"
+21:43:58.958 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml
+
+21:44:10.739 [main] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+21:44:32.666 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml"
+21:44:33.078 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\test-output\testng-failed.xml
+
+21:44:50.243 [main] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+13:48:41.811 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:48:42.251 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:51:35.315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:51:35.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+20:45:16.603 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+20:45:17.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+20:55:09.237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+20:55:09.658 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+08:06:05.506 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+08:06:06.105 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+08:34:43.516 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+08:34:43.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:33:15.325 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:33:15.741 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:38:34.186 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:38:34.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+10:40:51.163 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+10:40:51.482 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+14:40:06.050 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+14:40:06.480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+14:56:16.457 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+14:56:16.816 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:00:41.456 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:00:41.856 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:01:43.386 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:01:43.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:02:16.296 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:02:16.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:04:48.326 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:04:48.688 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:06:13.401 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:06:13.727 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:08:33.255 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:08:33.585 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:09:22.849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:09:23.194 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:30:05.417 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:30:06.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+16:19:22.190 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\AppData\Local\Temp\testng-eclipse--265610229\testng-customsuite.xml"
+16:19:22.854 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+16:19:22.858 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+16:19:22.861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.861 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.862 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.863 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.864 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.864 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.875 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+16:19:22.891 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+16:19:22.893 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.896 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.897 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.900 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.901 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.909 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.909 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.911 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:19:22.915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:19:22.927 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\AppData\Local\Temp\testng-eclipse--265610229\testng-customsuite.xml
+
+16:19:22.966 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+16:19:23.410 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@75b25825: 179 ms
+16:19:23.442 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@36f48b4: 31 ms
+16:19:23.457 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@3382f8ae: 15 ms
+16:19:23.471 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@73163d48: 13 ms
+16:19:23.485 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4504d271: 14 ms
+16:19:23.486 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@207b8649: 0 ms
+16:20:03.638 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+16:20:03.961 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+16:43:52.215 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+16:43:52.722 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+16:53:29.859 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+16:53:30.277 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+16:55:06.889 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+16:55:07.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+16:57:24.170 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+16:59:36.372 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:00:51.156 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:00:51.501 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:04:52.537 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:04:52.904 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:07:30.250 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:07:30.654 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:08:53.436 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:08:53.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:11:53.165 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:11:53.561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:13:40.172 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:13:40.487 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:14:30.907 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:14:31.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:19:54.892 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:19:55.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:24:15.025 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:24:15.401 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+17:25:45.534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+17:25:46.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+09:04:01.786 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+09:04:02.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+09:06:21.315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+09:06:21.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:21:38.790 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:21:39.335 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+13:21:57.898 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:24:42.481 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:29:57.753 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:30:24.536 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:31:03.646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:31:38.058 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:45:41.207 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:47:17.221 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:55:30.605 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+13:55:31.067 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+14:38:49.602 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+14:38:50.453 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+15:26:11.315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+15:26:12.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml
+
+08:20:35.812 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+08:21:50.921 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+08:25:51.849 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\chand\Desktop\kalabairava\harii\platinum for testing\Opencart121v\grouping.xml"
+09:40:22.426 [TestNG-tests-1] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+09:40:36.701 [TestNG-tests-1] INFO  testCases.verifyMyacc - **** fail *****
+09:42:50.531 [TestNG-tests-1] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+11:01:29.336 [TestNG-tests-1] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+11:01:47.742 [TestNG-tests-1] INFO  testCases.verifyMyacc - **** fail *****
+11:04:10.401 [TestNG-tests-1] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
+11:42:00.217 [TestNG-tests-1] INFO  testCases.verifyMyacc - test case 002 starting verify my ac 
